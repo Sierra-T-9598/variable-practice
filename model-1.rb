@@ -5,3 +5,7 @@ county = "Boulder"
 elevation = 5371
 number_of_restaurants = 13
 number_of_schools = 3
+
+busy_trailheads = true
+has_breakfast_place = false
+great_views = true
