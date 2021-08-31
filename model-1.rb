@@ -14,3 +14,7 @@ restaurants = ['Mainstage Brewing', 'Oskar Blues', 'La Mariposa', 'Barking Dog
   Cafe']
 parks = ['Lavern Johnson','Bohn','Sandstone']
 local_wildlife = ['black bears', 'deer', 'mountain lions', 'rattle snakes']
+
+directory = {"one" => "Lyons", "two" => "St. Vrain Valley School District", "
+  three" => "Lyons Vet Clinic", "four" => "Bank of the West"}
+local_tips = {"go" => "tubing", "find" => "Moxie's", "be" => "kind"}
